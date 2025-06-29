@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Faiz 👋
 
-<!--
-**faizdevhub/faizdevhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer & Automation Enthusiast  
+🚀 Building smart AI bots and real-world solutions  
+🌐 Open to collaboration & freelance opportunities  
 
-Here are some ideas to get you started:
+## 🚀 My Tech Stack
+- Python • Web Scraping • API Automation • Git
+- Tools: VS Code • Cursor • GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Simple Basic Projects](https://github.com/faizdevhub/simple-basic-projects)
+- [Guessing Game](https://github.com/faizdevhub/simple-basic-projects/tree/main/02_guessing_game)
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/faizdevhub)
